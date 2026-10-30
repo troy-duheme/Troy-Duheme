@@ -22,15 +22,31 @@ I'm currently expanding my technical expertise in **Playwright automation, JavaS
 
 **Additional Experience:** Agile Collaboration, Requirements Analysis, Production Issue Investigation, Root Cause Analysis
 
+
 ## 📂 Featured QA Projects
 
-My repositories showcase practical software testing activities, including:
+### 🧪 Playwright QA Automation
 
-- Browser automation using Playwright
-- Manual test plans and regression test suites
-- API testing and defect documentation
-- SQL queries for test data validation
-- End-to-end QA case studies and test reporting
+[![Playwright Tests](https://github.com/troy-duheme/playwright-qa-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/troy-duheme/playwright-qa-automation/actions/workflows/playwright.yml)
+
+**[View Playwright QA Automation Project](https://github.com/troy-duheme/playwright-qa-automation)**
+
+A JavaScript-based test automation framework built with Playwright to validate critical e-commerce functionality using the SauceDemo application.
+
+**Key Highlights:**
+- 9 automated test cases covering authentication, inventory, shopping cart, and checkout
+- Positive and negative testing scenarios
+- Cross-browser testing with Chromium, Firefox, and WebKit
+- Reusable authentication helper for maintainable test automation
+- GitHub Actions integration for continuous integration
+- Automated HTML test reporting
+
+**Technologies:** Playwright | JavaScript | Node.js | GitHub Actions
+
+---
+
+*Additional QA projects covering manual testing, API validation, SQL, and defect investigation are planned.*
+
 
 ## 🎯 Professional Focus
 
