@@ -40,6 +40,6 @@ I enjoy investigating complex issues, improving testing processes, and collabora
 
 ## 📫 Connect
 
-**LinkedIn:** Add LinkedIn profile URL
+**LinkedIn:** https://www.linkedin.com/in/troyduheme/
 
 **Location:** Montreal, Quebec, Canada
