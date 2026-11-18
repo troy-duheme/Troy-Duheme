@@ -88,7 +88,3 @@ My focus is combining practical testing experience with an analytical approach t
 **LinkedIn:** [linkedin.com/in/troyduheme](https://www.linkedin.com/in/troyduheme/)
 
 **Location:** Montréal, Québec, Canada
-
----
-
-*This portfolio contains independently developed QA projects demonstrating manual testing, automation, documentation, and analytical problem-solving.*
