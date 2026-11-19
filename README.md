@@ -71,6 +71,24 @@ A structured manual QA project evaluating customer-facing e-commerce functionali
 
 ---
 
+### 🔌 3. REST API Testing Suite
+
+**Postman | JavaScript | REST APIs | JSON**
+
+[View Project Repository](https://github.com/troy-duheme/api-testing-postman)
+
+A practical REST API testing project using Postman and JavaScript to validate HTTP responses, JSON data, error handling, and simulated CRUD operations.
+
+**Project Highlights**
+- 10 API test scenarios covering GET, POST, PUT, PATCH, and DELETE
+- 28 automated JavaScript assertions passing in Postman's Collection Runner
+- Positive and negative testing, response structure validation, and HTTP status checks
+- Response time validation and an exportable Postman collection
+
+**Demonstrated Skills:** API Testing, Postman, JavaScript Assertions, REST, JSON Validation
+
+---
+
 ## 🎯 Professional Focus
 
 I'm interested in opportunities involving:
